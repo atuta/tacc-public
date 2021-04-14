@@ -1,2 +1,2 @@
 # tacc-public
-The Abundance Community Coin
+The Abundance Community Coin Development
